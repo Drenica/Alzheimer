@@ -1,2 +1,2 @@
 # Alzheimer
-Alzheimer detection using deep learning
+Alzheimer detection using EfficientNet vs ResNet
